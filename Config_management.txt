@@ -1,0 +1,1 @@
+SCM is vital for modern development because it provides a reliable history of changes. This allows teams to revert to previous versions if errors occur and maintains the integrity of the software throughout its lifecycle.
